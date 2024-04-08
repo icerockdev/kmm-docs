@@ -8,4 +8,4 @@ sidebar_position: 10
 <br/>
 <br/>
 Полезные ссылки:
-- [Improving dependency sync speeds for your Gradle project]([url](https://msfjarvis.dev/posts/improving-dependency-sync-speeds-for-your-gradle-project/))
+- [Improving dependency sync speeds for your Gradle project](https://msfjarvis.dev/posts/improving-dependency-sync-speeds-for-your-gradle-project/)
