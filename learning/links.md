@@ -24,6 +24,7 @@ sidebar_position: 23
 - [NATIVE UI WITH MULTIPLATFORM COMPOSE](https://www.droidcon.com/2022/09/29/native-ui-with-multiplatform-compose/) - про проект Redwood, который рисует нативный для Android, iOS, Web UI, под управлением Jetpack Compose
 - [SIMPLIFIED SWIFT MULTIPLATFORM INTEGRATION](https://www.droidcon.com/2022/09/29/simplified-swift-multiplatform-integration/) - как подключить Swift код внутрь Kotlin кода
 - [KOTLIN MULTIPLATFORM AT FIVE YEARS](https://www.droidcon.com/2022/09/29/kotlin-multiplatform-at-five-years/)
+- [Денис Супрун — KMP на ОС Аврора: проблемы и пути их решения](https://www.youtube.com/watch?v=PEiJIw023XM)
 
 ## Posts
 
