@@ -87,3 +87,4 @@ sidebar_position: 23
 - [multiplatform-precompiled-demo](https://gitlab.icerockdev.com/multiplatform-precompiled-demo)
 - [klutter](https://github.com/buijs-dev/klutter) - Flutter + Kotlin Multiplatform
 - [Kotlin Multiplatform Wizard](https://terrakok.github.io/kmp-web-wizard/) - generator of applications
+- [Kotlin JS resources gradle plugin](https://gitlab.com/opensavvy/automation/kotlin-js-resources)
