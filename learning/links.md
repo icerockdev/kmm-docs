@@ -80,6 +80,7 @@ sidebar_position: 23
 - [Public key pinning using Ktor for Android and iOS (KMM)](https://medium.com/@MrHardikTrivedi/public-key-pinning-using-ktor-for-android-and-ios-kmm-61066cb34321)
 - [Testing on Kotlin Multiplatform and a Strategy to Speed Up Development Time](https://akjaw.com/testing-on-kotlin-multiplatform-and-strategy-to-speed-up-development/) - про авто-тестирование фич
 - [Manage configurations for the different environment (eg: staging, prod) in Kotlin Multiplatform](https://sujanpoudel.me/blogs/kmp-setup-config-for-different-environment-in-kmp/)
+- [Convert Your Native Project to Kotlin Multiplatform: Why, When and How](https://www.thedroidsonroids.com/blog/convert-native-to-kotlin-multiplatform-guide)
 
 ## Projects
 
